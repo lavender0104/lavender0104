@@ -1,0 +1,19 @@
+I am working with the github profile readme to make an interactive and eye catching introduction about me and the projects that I have been working with. I want to use markdown and follow the markdown best practice to update the  readme file. I want you to write a good readable, straight to the point, professional readme to introduce me. Here I will tell you all my working experiences and skills below. My tech stacks mainly are C#, Angular, React, PostgreSQL, Docker, Liquid, Astro. My self claimed titles are AI prompt engineer HAHA, Claude Code addictor.
+
+1. I was having working experience on using Shopify Liquid to create custom extension. Utilized Pixel API to send product and order information to a specific endpoint to sync the data.
+
+2. I have been working as intern to create unit tests and selenium e2e tests in C# projects, and create a desktop application using UWP to generate company application tech stacks boilerplate code to quickly spin up new application.
+
+3. I was building full stack application for Treetop Rope Course and Popup Store. Highlights are customer booking site, admin portal site, e-pos, on site support for pos machine and receipt printer setup, dashboard, report, daily settlement, integration with 1Pay, booking timeslot configuration and generation, liability form, stock inventory, coupon/promotion discount, RBAC, audit logs debugging debugging where college lack of teaching.
+
+4. I was building school visitor registration management system for secondary school using MVC. I have learnt the customer registration flow, security guard assist to check out flow.
+
+5. I was involved in maintaining tenant management system. I have learnt the tenant and tenancy related knowledge such as lot settings, rental options, gto, business effective dates, master tenancy report.
+
+6. I was maintaining legacy projects such as ticket helpdesk for internal use.
+
+7. I was migrating legacy projects such as vendor registration management system and utility bill management system to new template. 
+
+8. I was building a tenant management system extension for dashboard and extended business logic for credit control department.
+
+9. I was building a e-invoice middleware to help my clients to submit b2b and b2c e-invoice complying LHDN standard.
